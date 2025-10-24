@@ -1,0 +1,402 @@
+[
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "carolina panthers"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "carolina panthers"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "carolina panthers"
+  },
+  {
+    "pred": "levis stadium",
+    "gold": "santa clara california"
+  },
+  {
+    "pred": "levis stadium",
+    "gold": "levis stadium"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "arabic",
+    "gold": "$"
+  },
+  {
+    "pred": "arabic",
+    "gold": "$"
+  },
+  {
+    "pred": "arabic",
+    "gold": "$"
+  },
+  {
+    "pred": "american football game to determine the champion of the national football league",
+    "gold": "golden anniversary"
+  },
+  {
+    "pred": "american football game to determine the champion of the national football league",
+    "gold": "golden anniversary"
+  },
+  {
+    "pred": "american football conference a f c c champion denver broncos defeated the national football conference",
+    "gold": "american football conference"
+  },
+  {
+    "pred": "american football conference a f c c champion denver broncos defeated the national football conference",
+    "gold": "american football conference"
+  },
+  {
+    "pred": "american football conference a f c c champion denver broncos defeated the national football conference",
+    "gold": "american football conference"
+  },
+  {
+    "pred": "american football game to determine the champion of the national football league",
+    "gold": "golden anniversary"
+  },
+  {
+    "pred": "american football game to determine the champion of the national football league",
+    "gold": "$"
+  },
+  {
+    "pred": "american football conference a f c c champion denver broncos defeated the national football conference",
+    "gold": "american football conference"
+  },
+  {
+    "pred": "american football conference a f c c champion denver broncos defeated the national football conference",
+    "gold": "american football conference"
+  },
+  {
+    "pred": "american football conference a f c c champion denver broncos defeated the national football conference",
+    "gold": "american football conference"
+  },
+  {
+    "pred": "denver broncos defeated the national football conference n f c c champion carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "denver broncos defeated the national football conference n f c c champion carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "denver broncos defeated the national football conference n f c c champion carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "levis stadium",
+    "gold": "levis stadium"
+  },
+  {
+    "pred": "levis stadium",
+    "gold": "levis stadium"
+  },
+  {
+    "pred": "santa clara california",
+    "gold": "santa clara"
+  },
+  {
+    "pred": "santa clara california",
+    "gold": "santa clara"
+  },
+  {
+    "pred": "santa clara california",
+    "gold": "santa clara"
+  },
+  {
+    "pred": "super bowl l",
+    "gold": "super bowl l"
+  },
+  {
+    "pred": "super bowl l",
+    "gold": "l"
+  },
+  {
+    "pred": "super bowl l",
+    "gold": "super bowl l"
+  },
+  {
+    "pred": "santa clara california",
+    "gold": "santa clara"
+  },
+  {
+    "pred": "santa clara california",
+    "gold": "santa clara"
+  },
+  {
+    "pred": "santa clara california",
+    "gold": "santa clara"
+  },
+  {
+    "pred": "levis stadium",
+    "gold": "levis stadium"
+  },
+  {
+    "pred": "levis stadium",
+    "gold": "levis stadium"
+  },
+  {
+    "pred": "levis stadium",
+    "gold": "levis stadium"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "carolina panthers"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "carolina panthers"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "carolina panthers"
+  },
+  {
+    "pred": "denver broncos defeated the national football conference n f c c champion carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "denver broncos defeated the national football conference n f c c champion carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "denver broncos defeated the national football conference n f c c champion carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "levis stadium",
+    "gold": "santa clara california"
+  },
+  {
+    "pred": "levis stadium",
+    "gold": "levis stadium"
+  },
+  {
+    "pred": "levis stadium",
+    "gold": "levis stadium"
+  },
+  {
+    "pred": "super bowl fifty",
+    "gold": "super bowl"
+  },
+  {
+    "pred": "super bowl fifty",
+    "gold": "super bowl"
+  },
+  {
+    "pred": "super bowl fifty",
+    "gold": "super bowl"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "carolina panthers",
+    "gold": "denver broncos"
+  },
+  {
+    "pred": "four",
+    "gold": "$"
+  },
+  {
+    "pred": "four",
+    "gold": "$"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "arizona cardinals"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "the arizona cardinals"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "arizona cardinals"
+  },
+  {
+    "pred": "new england patriots",
+    "gold": "new england patriots"
+  },
+  {
+    "pred": "new england patriots",
+    "gold": "the new england patriots"
+  },
+  {
+    "pred": "new england patriots",
+    "gold": "new england patriots"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "arizona cardinals"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "the arizona cardinals"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "arizona cardinals"
+  },
+  {
+    "pred": "new england patriots",
+    "gold": "new england patriots"
+  },
+  {
+    "pred": "new england patriots",
+    "gold": "the new england patriots"
+  },
+  {
+    "pred": "new england patriots",
+    "gold": "new england patriots"
+  },
+  {
+    "pred": "new england patriots",
+    "gold": "new england patriots"
+  },
+  {
+    "pred": "new england patriots",
+    "gold": "the new england patriots"
+  },
+  {
+    "pred": "new england patriots",
+    "gold": "new england patriots"
+  },
+  {
+    "pred": "four",
+    "gold": "four"
+  },
+  {
+    "pred": "four",
+    "gold": "four"
+  },
+  {
+    "pred": "four",
+    "gold": "four"
+  },
+  {
+    "pred": "four",
+    "gold": "four"
+  },
+  {
+    "pred": "four",
+    "gold": "four"
+  },
+  {
+    "pred": "new england patriots",
+    "gold": "new england patriots"
+  },
+  {
+    "pred": "new england patriots",
+    "gold": "the new england patriots"
+  },
+  {
+    "pred": "new england patriots",
+    "gold": "new england patriots"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "arizona cardinals"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "the arizona cardinals"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "arizona cardinals"
+  },
+  {
+    "pred": "fifteen to one",
+    "gold": "second"
+  },
+  {
+    "pred": "fifteen to one",
+    "gold": "second"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "new england patriots"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "the new england patriots"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "new england patriots"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "new england patriots"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "the new england patriots"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "new england patriots"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "arizona cardinals"
+  },
+  {
+    "pred": "arizona cardinals",
+    "gold": "the arizona cardinals"
+  }
+]
