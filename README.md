@@ -18,7 +18,6 @@ Spoken-SQuAD JSON files:
 - `spoken_train-v1.1.json`
 - `spoken_test-v1.1.json`
 
-Put them under `Spoken-SQuAD-master/` **or** pass absolute paths via CLI flags.
 
 ## Environment
 Python 3.10+, CUDA (optional), and:
@@ -29,6 +28,6 @@ pip install evaluate jiwer
 
 ## Train and Evaluation
 python3 Bert.py \
-  --train_json /path/to/spoken_train-v1.1.json \
-  --valid_json /path/to/spoken_test-v1.1.json
+  --train_json /data/spoken_train-v1.1.json \
+  --valid_json /data/spoken_test-v1.1.json
 
