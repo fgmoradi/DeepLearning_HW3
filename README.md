@@ -5,13 +5,17 @@ A minimal, reproducible BERT baseline for extractive question answering over **A
 ## Project Structure
 
 DL_HW3/
-├─ Bert.py # main training+evaluation script (report-ready outputs)
 ├─ README.md
-├─ run_outputs/ # figures, tables, logs (created after running)
-│ ├─ figures/ # plots: loss, EM/F1, WER, length histograms
-│ ├─ tables/ # history.json, sample preds per epoch
-│ └─ base_model_wer.txt # WER per epoch
-└─ Spoken-SQuAD-master/ # place dataset JSONs here (or pass paths via args)
+├─ Bert.py                     # main training + evaluation (saves plots/tables)
+├─ requirements.txt            # torch, transformers, tqdm, matplotlib, (evaluate, jiwer)
+├─ .gitignore                  # ignores outputs, checkpoints, venv, etc.
+├─ run_outputs/                # created after running (not tracked, by default)
+│  ├─ figures/                 # loss, EM/F1, WER, length histograms
+│  ├─ tables/                  # history.json, preds_epoch_*.json
+│  └─ base_model_wer.txt       # WER per epoch
+└─ data/                       # dataset location (you choose)
+   ├─ spoken_train-v1.1.json
+   └─ spoken_test-v1.1.json
 
 
 ## Dataset
