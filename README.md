@@ -4,13 +4,12 @@ A minimal, reproducible BERT baseline for extractive question answering over **A
 
 ## Project Structure
  * **Bert.py** — main training + evaluation script (report-ready outputs)
- * **README.md** — project overview and usage
  * **run_outputs/** — generated artifacts after running
 
    * **figures/** — plots (training loss, EM/F1, WER, length histograms)
    * **tables/** — `history.json`, `preds_epoch_*.json` (sample preds vs. gold)
    * **base_model_wer.txt** — WER per epoch (plain text)
- * **Spoken-SQuAD-master/** — dataset folder (place `spoken_train-v1.1.json`, `spoken_test-v1.1.json` here, or pass absolute paths via CLI flags)
+ * **data/** — dataset folder 
 
 
 
