@@ -3,19 +3,15 @@
 A minimal, reproducible BERT baseline for extractive question answering over **ASR-transcribed** passages (Spoken-SQuAD). Trains a span-prediction head on top of `bert-base-uncased`, logs **EM/F1/WER**, and saves figures/tables for the report.
 
 ## Project Structure
+ * **Bert.py** — main training + evaluation script (report-ready outputs)
+ * **README.md** — project overview and usage
+ * **run_outputs/** — generated artifacts after running
 
-DL_HW3/
-├─ README.md
-├─ Bert.py                     # main training + evaluation (saves plots/tables)
-├─ requirements.txt            # torch, transformers, tqdm, matplotlib, (evaluate, jiwer)
-├─ .gitignore                  # ignores outputs, checkpoints, venv, etc.
-├─ run_outputs/                # created after running (not tracked, by default)
-│  ├─ figures/                 # loss, EM/F1, WER, length histograms
-│  ├─ tables/                  # history.json, preds_epoch_*.json
-│  └─ base_model_wer.txt       # WER per epoch
-└─ data/                       # dataset location (you choose)
-   ├─ spoken_train-v1.1.json
-   └─ spoken_test-v1.1.json
+   * **figures/** — plots (training loss, EM/F1, WER, length histograms)
+   * **tables/** — `history.json`, `preds_epoch_*.json` (sample preds vs. gold)
+   * **base_model_wer.txt** — WER per epoch (plain text)
+ * **Spoken-SQuAD-master/** — dataset folder (place `spoken_train-v1.1.json`, `spoken_test-v1.1.json` here, or pass absolute paths via CLI flags)
+
 
 
 ## Dataset
