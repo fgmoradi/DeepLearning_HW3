@@ -3,7 +3,7 @@
 A minimal, reproducible BERT baseline for extractive question answering over **ASR-transcribed** passages (Spoken-SQuAD). Trains a span-prediction head on top of `bert-base-uncased`, logs **EM/F1/WER**, and saves figures/tables for the report.
 
 ## Project Structure
- * **Bert.py** — main training + evaluation script (report-ready outputs)
+ * **Bert.py** — main training + evaluation script 
  * **run_outputs/** — generated artifacts after running
 
    * **figures/** — plots (training loss, EM/F1, WER, length histograms)
