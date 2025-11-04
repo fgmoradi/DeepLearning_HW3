@@ -337,6 +337,13 @@ def eval_model(model, loader):
         "N":   len(preds)
     }
     return preds, refs, metrics
+# --- Baseline: evaluate before any training and optionally exit ---
+if os.environ.get("BASELINE_ONLY", "0") == "1":
+    preds0, refs0, m0 = eval_model(model, valid_loader)   # untrained head + pretrained encoder
+    os.makedirs(f"{OUTDIR}/tables", exist_ok=True)
+    save_json(f"{OUTDIR}/tables/baseline_epoch0.json", m0)
+    print(f"[baseline-epoch0] EM={m0['EM']:.4f} F1={m0['F1']:.4f} WER={m0['WER']:.4f}")
+    raise SystemExit(0)
 
 
 history = {
